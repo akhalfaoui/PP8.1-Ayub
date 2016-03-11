@@ -1,4 +1,4 @@
-(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({"/home/alumne/Escritorio/123/node_modules/foundation-sites/dist/foundation.js":[function(require,module,exports){
+(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({"/home/alumne/Escritorio/PP8.1-Ayub/node_modules/foundation-sites/dist/foundation.js":[function(require,module,exports){
 !function ($) {
 
   "use strict";
@@ -8785,7 +8785,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   // Window exports
   Foundation.plugin(Tooltip, 'Tooltip');
 }(jQuery);
-},{}],"/home/alumne/Escritorio/123/node_modules/jquery/dist/jquery.js":[function(require,module,exports){
+},{}],"/home/alumne/Escritorio/PP8.1-Ayub/node_modules/jquery/dist/jquery.js":[function(require,module,exports){
 /*!
  * jQuery JavaScript Library v2.2.1
  * http://jquery.com/
@@ -18618,7 +18618,7 @@ if ( !noGlobal ) {
 return jQuery;
 }));
 
-},{}],"/home/alumne/Escritorio/123/src/js/main":[function(require,module,exports){
+},{}],"/home/alumne/Escritorio/PP8.1-Ayub/src/js/main":[function(require,module,exports){
 (function (global){
 global.$       = global.jQuery = require('jquery');
 var foundation = require('../../node_modules/foundation-sites/dist/foundation.js');
@@ -18626,6 +18626,6 @@ var foundation = require('../../node_modules/foundation-sites/dist/foundation.js
 $(document).foundation();
 
 }).call(this,typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {})
-},{"../../node_modules/foundation-sites/dist/foundation.js":"/home/alumne/Escritorio/123/node_modules/foundation-sites/dist/foundation.js","jquery":"/home/alumne/Escritorio/123/node_modules/jquery/dist/jquery.js"}]},{},["/home/alumne/Escritorio/123/src/js/main"]);
+},{"../../node_modules/foundation-sites/dist/foundation.js":"/home/alumne/Escritorio/PP8.1-Ayub/node_modules/foundation-sites/dist/foundation.js","jquery":"/home/alumne/Escritorio/PP8.1-Ayub/node_modules/jquery/dist/jquery.js"}]},{},["/home/alumne/Escritorio/PP8.1-Ayub/src/js/main"]);
 
 //# sourceMappingURL=bundle.js.map
