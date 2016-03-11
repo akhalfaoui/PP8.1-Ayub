@@ -3933,3 +3933,36 @@ flex-wrap: wrap;
 
 .long-delay {
   animation-delay: 700ms !important; }
+
+@font-face {
+  font-family: fuente;
+  src: url(../fnt/EMLATIN6.ttf);
+}
+
+p {
+  font-family: fuente;
+}
+
+h1 {
+  font-family: fuente;
+}
+
+h2 {
+  font-family: fuente;
+}
+
+h3 {
+  font-family: fuente;
+}
+
+h4 {
+  font-family: fuente;
+}
+
+h5 {
+  font-family: fuente;
+}
+
+h6 {
+  font-family: fuente;
+}
